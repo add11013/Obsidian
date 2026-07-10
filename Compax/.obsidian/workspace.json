@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f85d7d5e486b8bea",
+        "id": "e869bdb1ae238b7a",
         "type": "tabs",
         "children": [
           {
-            "id": "234184ce08ba343a",
+            "id": "5f7c87c56b759736",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Add service ticket templates.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Add service ticket templates"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL/Add service ticket templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Add service ticket templates"
             }
           },
           {
@@ -168,7 +173,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,19 +192,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "234184ce08ba343a",
+  "active": "5f7c87c56b759736",
   "lastOpenFiles": [
-    "SQL/Query reschedule.md",
-    "SQL/Add service ticket category.md",
     "SQL/Add service ticket template attributes.md",
-    "SQL/Add service ticket templates.md",
-    "SQL/Add user function and role.md",
-    "Starhub/Onboard.md",
+    "SQL/Add service ticket category.md",
     "Templates/SQL template.md",
     "Subsystem/Subsystem.md",
-    "Config/Backend config.md",
-    "Appointment/Appointment Detail.md",
+    "Starhub/Onboard.md",
     "AAX4 GUI/AAX4 GUI Nuxt command.md",
+    "Appointment/Appointment Detail.md",
+    "Config/Backend config.md",
+    "SQL/Query reschedule.md",
+    "SQL/Add user function and role.md",
+    "SQL/Add service ticket templates.md",
     "Config",
     "AAX4 GUI",
     "Starhub",
