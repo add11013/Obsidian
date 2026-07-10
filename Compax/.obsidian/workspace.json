@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config/backend config.md",
+                "file": "SQL/Query reschedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backend config"
+              "title": "Query reschedule"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Config/backend config.md",
+                "file": "SQL/Query reschedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for backend config"
+              "title": "Backlinks for Query reschedule"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Config/backend config.md",
+                "file": "SQL/Query reschedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from backend config"
+              "title": "Outgoing links from Query reschedule"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Config/backend config.md",
+                "file": "SQL/Query reschedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of backend config"
+              "title": "Outline of Query reschedule"
             }
           },
           {
@@ -210,8 +210,8 @@
   },
   "active": "30b8ec04b19361c3",
   "lastOpenFiles": [
+    "Config/Backend config.md",
     "AAX4 GUI/Nuxt command.md",
-    "Config/backend config.md",
     "Config",
     "Templates/SQL template.md",
     "SQL/Query reschedule.md",
