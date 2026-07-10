@@ -1,11 +1,8 @@
 **Network and common used endpoints**
 
 1. Check if you have set up WireGraud  
-2. 
-    [Setup for WireGuard Proxy Connection](https://confluence.compax.at/pages/viewpage.action?pageId=143127861)
-
-
-    Check if you have installed SmartProxy in your browser(Chrome, Firefox) [SmartProxy Installation](https://confluence.compax.at/display/SH/Chrome%2C+Firefox)
+	 [Setup for WireGuard Proxy Connection](https://confluence.compax.at/pages/viewpage.action?pageId=143127861)
+2. Check if you have installed SmartProxy in your browser(Chrome, Firefox) [SmartProxy Installation](https://confluence.compax.at/display/SH/Chrome%2C+Firefox)
     
 
 we are using AD UAT (AKA TRN) and HFD (AKA Staging) envs on AWS for testing.  
