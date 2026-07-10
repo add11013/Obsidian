@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAX4 GUI/Nuxt command.md",
+                "file": "Config/backend config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nuxt command"
+              "title": "backend config"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAX4 GUI/Nuxt command.md",
+                "file": "Config/backend config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nuxt command"
+              "title": "Backlinks for backend config"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAX4 GUI/Nuxt command.md",
+                "file": "Config/backend config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nuxt command"
+              "title": "Outgoing links from backend config"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAX4 GUI/Nuxt command.md",
+                "file": "Config/backend config.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nuxt command"
+              "title": "Outline of backend config"
             }
           },
           {
@@ -208,10 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8333d20df8bb186f",
+  "active": "30b8ec04b19361c3",
   "lastOpenFiles": [
-    "Templates/SQL template.md",
     "AAX4 GUI/Nuxt command.md",
+    "Config/backend config.md",
+    "Config",
+    "Templates/SQL template.md",
     "SQL/Query reschedule.md",
     "AAX4 GUI",
     "SQL/Add user function and role.md",
