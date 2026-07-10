@@ -1,5 +1,5 @@
 
-put .env.dev
+put .env.dev into package/aax4-sh
 ``` Dotenv
 # Backend API Configuration
 

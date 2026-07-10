@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4b490e9c17ba4d37",
+        "id": "f85d7d5e486b8bea",
         "type": "tabs",
         "children": [
           {
-            "id": "cc58b39fdeb02422",
+            "id": "234184ce08ba343a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Query reschedule.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Query reschedule"
-            }
-          },
-          {
-            "id": "30b8ec04b19361c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Query reschedule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Query reschedule"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Query reschedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Query reschedule"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Query reschedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Query reschedule"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Query reschedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Query reschedule"
+              "title": "Outline"
             }
           },
           {
@@ -208,22 +186,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30b8ec04b19361c3",
+  "active": "234184ce08ba343a",
   "lastOpenFiles": [
-    "Config/Backend config.md",
-    "AAX4 GUI/Nuxt command.md",
-    "Config",
-    "Templates/SQL template.md",
     "SQL/Query reschedule.md",
-    "AAX4 GUI",
-    "SQL/Add user function and role.md",
-    "SQL/Add service ticket templates.md",
-    "SQL/Add service ticket template attributes.md",
     "SQL/Add service ticket category.md",
-    "Subsystem/Subsystem.md",
+    "SQL/Add service ticket template attributes.md",
+    "SQL/Add service ticket templates.md",
+    "SQL/Add user function and role.md",
     "Starhub/Onboard.md",
-    "Starhub",
+    "Templates/SQL template.md",
+    "Subsystem/Subsystem.md",
+    "Config/Backend config.md",
     "Appointment/Appointment Detail.md",
+    "AAX4 GUI/AAX4 GUI Nuxt command.md",
+    "Config",
+    "AAX4 GUI",
+    "Starhub",
     "2026-07-10.md",
     "Templates",
     "SQL",

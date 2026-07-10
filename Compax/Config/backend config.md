@@ -1,3 +1,4 @@
+
 ``` script
 -Dspring.datasource.url=jdbc:postgresql://rpdev-db.int.compax.at:5432/aax2db?currentSchema="aax2"
 -Dspring.profiles.active=redis

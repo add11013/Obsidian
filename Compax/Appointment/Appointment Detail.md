@@ -1,3 +1,4 @@
+
 ## Appointment type 
 從 appointmentName取來
 根據不同類別判斷後綴
