@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Add service ticket templates.md",
+                "file": "SQL/Add service ticket category.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add service ticket templates"
+              "title": "Add service ticket category"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Add service ticket templates.md",
+                "file": "SQL/Add service ticket category.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Add service ticket templates"
+              "title": "Outgoing links from Add service ticket category"
             }
           },
           {
@@ -195,6 +195,7 @@
   "active": "5f7c87c56b759736",
   "lastOpenFiles": [
     "SQL/Add service ticket template attributes.md",
+    "SQL/Add service ticket templates.md",
     "SQL/Add service ticket category.md",
     "Templates/SQL template.md",
     "Subsystem/Subsystem.md",
@@ -204,7 +205,6 @@
     "Config/Backend config.md",
     "SQL/Query reschedule.md",
     "SQL/Add user function and role.md",
-    "SQL/Add service ticket templates.md",
     "Config",
     "AAX4 GUI",
     "Starhub",
