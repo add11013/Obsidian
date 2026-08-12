@@ -108,3 +108,6 @@ https://shint2.int.compax.at/
 | Port | `5433` |
 | Username | `aax2sh` |
 | Password | `aax2sh` |
+
+
+#config
