@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starhub/Logs.md",
+                "file": "Starhub/Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logs"
+              "title": "Deploy"
             }
           }
         ]
@@ -198,14 +198,15 @@
   },
   "active": "b359639b369deb9a",
   "lastOpenFiles": [
-    "SQL/WF related.md",
+    "Starhub/Onboard.md",
+    "Starhub/Deploy.md",
     "Starhub/Logs.md",
+    "SQL/WF related.md",
     "SQL/Query reschedule.md",
     "SQL/Add service ticket category.md",
     "Templates/SQL template.md",
     "SQL/Add user function and role.md",
     "Subsystem/Subsystem.md",
-    "Starhub/Onboard.md",
     "SQL/Add service ticket template attributes.md",
     "SQL/Add service ticket templates.md",
     "Config/Backend config.md",
