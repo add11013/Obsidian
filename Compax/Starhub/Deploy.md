@@ -32,6 +32,11 @@ DB config會從rpdev或konf(看table主表是根據哪一個) 同步到SHPRE環�
 * 所有的code change必須改動到SHPRE
 * 透過COIN包版，請SH人員幫忙上版到UAT/HFD
 
+COIN patch release範例
+client=sh,configuration=aax2,identifier=5.654.2a
+
 在要上production前會從SHPRE切出一個STABLE
 
-版號b結尾為stable
+版號b結尾為stable的版本
+版號a結尾為shpre的版本
+所以SHPRE修正完，要驗證時的版號應該要是a結尾，才代表上版成功
