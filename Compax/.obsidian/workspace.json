@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Config/Backend config.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
