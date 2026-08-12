@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starhub/Deploy.md",
-                "mode": "preview",
+                "file": "Config/Backend config.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploy"
+              "title": "Backend config"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#config",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/WF related.md",
+                "file": "Config/Backend config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WF related"
+              "title": "Backlinks"
             }
           },
           {
@@ -115,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/WF related.md",
+                "file": "Config/Backend config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WF related"
+              "title": "Outgoing links"
             }
           },
           {
@@ -177,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,18 +196,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b359639b369deb9a",
+  "active": "4dabb1f9d3b1a79c",
   "lastOpenFiles": [
-    "Starhub/Onboard.md",
-    "Starhub/Deploy.md",
-    "Starhub/Logs.md",
     "SQL/WF related.md",
     "SQL/Query reschedule.md",
+    "SQL/Add service ticket template attributes.md",
     "SQL/Add service ticket category.md",
     "Templates/SQL template.md",
-    "SQL/Add user function and role.md",
+    "Starhub/Onboard.md",
     "Subsystem/Subsystem.md",
-    "SQL/Add service ticket template attributes.md",
+    "Starhub/Logs.md",
+    "Starhub/Deployment.md",
+    "SQL/Add user function and role.md",
     "SQL/Add service ticket templates.md",
     "Config/Backend config.md",
     "AAX4 GUI/AAX4 GUI Nuxt command.md",
