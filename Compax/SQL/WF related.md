@@ -1,4 +1,9 @@
-```sql
+
+## Description
+Workflow相關的sql
+
+## Script
+``` sql
 -- add wfi for 472 438  
 INSERT INTO aax2.w_items_2_workflows (id, workflow, scenario, workflowitem, description, sort_order, previous_item, autostart, history, status, entity, order_status, order_status_string, order_status_failure, order_status_string_failure, order_status_3, order_status_string_3, order_status_4, order_status_string_4, order_status_5, order_status_string_5, optional, resetable, data_selection_mode, handling_code, return_code_mandatory, title, changed_by, change_dt, last_user, position, close_via_batch, has_labels, instructions, required_function, alternate_returncode_communication, priority)  
 VALUES (5000405900, 472, 644, 4515, null, 1, null, 1, 0, 1, 47, null, null, null, null, null, null, null, null, null, null, 'N', 1, 0, null, 0, null, null, '2026-08-05 08:30:20.092000', 148163069, '150.00 150.00', 0, 0, null, null, 0, 1000);  
