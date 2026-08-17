@@ -199,6 +199,7 @@
   "active": "b359639b369deb9a",
   "lastOpenFiles": [
     "Starhub/Onboard.md",
+    "Starhub/Logs.md",
     "Starhub/Deployment.md",
     "Config/Backend config.md",
     "SQL/WF related.md",
@@ -207,7 +208,6 @@
     "SQL/Add service ticket category.md",
     "Templates/SQL template.md",
     "Subsystem/Subsystem.md",
-    "Starhub/Logs.md",
     "SQL/Add user function and role.md",
     "SQL/Add service ticket templates.md",
     "AAX4 GUI/AAX4 GUI Nuxt command.md",
