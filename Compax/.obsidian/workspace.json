@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config/Backend config.md",
+                "file": "Starhub/Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend config"
+              "title": "Logs"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#config",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,20 +196,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4dabb1f9d3b1a79c",
+  "active": "b359639b369deb9a",
   "lastOpenFiles": [
+    "Starhub/Onboard.md",
+    "Starhub/Deployment.md",
+    "Config/Backend config.md",
     "SQL/WF related.md",
     "SQL/Query reschedule.md",
     "SQL/Add service ticket template attributes.md",
     "SQL/Add service ticket category.md",
     "Templates/SQL template.md",
-    "Starhub/Onboard.md",
     "Subsystem/Subsystem.md",
     "Starhub/Logs.md",
-    "Starhub/Deployment.md",
     "SQL/Add user function and role.md",
     "SQL/Add service ticket templates.md",
-    "Config/Backend config.md",
     "AAX4 GUI/AAX4 GUI Nuxt command.md",
     "Appointment/Appointment Detail.md",
     "Config",

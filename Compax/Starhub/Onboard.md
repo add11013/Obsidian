@@ -52,13 +52,13 @@ We mainly use the following AWS environments for testing:
 
 ## AD UAT (TRN)
 
-| Item | Value |
-|------|-------|
-| Database | `dbcompaxtraining1` |
-| Endpoint | `db-compax-training1.ckerncv2jdvw.ap-southeast-1.rds.amazonaws.com` |
-| Port | `5432` |
-| Username | `postgrestrain` |
-| Password | `CompaxTrainingPo$tGresSql` |
+| Item     | Value                                                              |
+| -------- | ------------------------------------------------------------------ |
+| Database | `dbcompaxtraining1`                                                |
+| Endpoint | `db-compax-training.ckerncv2jdvw.ap-southeast-1.rds.amazonaws.com` |
+| Port     | `5432`                                                             |
+| Username | `postgrestrain`                                                    |
+| Password | `CompaxTrainingPo$tGresSql`                                        |
 
 ---
 
