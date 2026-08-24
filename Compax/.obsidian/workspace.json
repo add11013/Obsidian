@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User/User.md",
+                "file": "Starhub/Onboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User"
+              "title": "Onboard"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User/User.md",
+                "file": "Starhub/Onboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +197,8 @@
   },
   "active": "db4cb20aa5f30f7d",
   "lastOpenFiles": [
-    "SQL/Add user function and role.md",
     "User/User.md",
+    "SQL/Add user function and role.md",
     "Config/Backend config.md",
     "SQL/Query reschedule.md",
     "User",
