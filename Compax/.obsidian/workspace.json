@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAX4 GUI/AAX4 GUI Nuxt command.md",
+                "file": "WFI/WFI basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AAX4 GUI Nuxt command"
+              "title": "WFI basic"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAX4 GUI/AAX4 GUI Nuxt command.md",
+                "file": "WFI/WFI basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,10 @@
   },
   "active": "db4cb20aa5f30f7d",
   "lastOpenFiles": [
+    "Pasted image 20260825175357.png",
+    "AAX4 GUI/AAX4 GUI Nuxt command.md",
+    "WFI/WFI basic.md",
+    "WFI",
     "SQL/WF related.md",
     "SQL/Query wfi target.md",
     "SQL/Query reschedule.md",
@@ -208,7 +212,6 @@
     "User",
     "SQL/Add service ticket category.md",
     "SQL/Add service ticket template attributes.md",
-    "AAX4 GUI/AAX4 GUI Nuxt command.md",
     "Appointment/Appointment Detail.md",
     "Templates/SQL template.md",
     "Subsystem/Subsystem.md",
