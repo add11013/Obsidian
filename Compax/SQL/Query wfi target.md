@@ -12,3 +12,4 @@ join w_workflows ww on ww.id = wiw.workflow
 join w_workflowitems wwi on wwi.id = wiw.workflowitem
 where wwwd.config like '%storeServiceTicketNoteFromWfo%'
 ```
+
