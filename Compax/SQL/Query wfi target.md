@@ -1,6 +1,5 @@
 
 ## Description
-
 找出哪一個WFI有用這個target
 
 ## Script
