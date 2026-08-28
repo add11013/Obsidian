@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Add service ticket templates.md",
+                "file": "SQL/Add user function and role.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add service ticket templates"
+              "title": "Add user function and role"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User/User.md",
+                "file": "SQL/Add service ticket templates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,11 +177,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +199,15 @@
   },
   "active": "db4cb20aa5f30f7d",
   "lastOpenFiles": [
+    "SQL/Query wfi target.md",
+    "SQL/WF related.md",
+    "SQL/Add service ticket templates.md",
     "WFI/WFI basic.md",
     "Pasted image 20260825175357.png",
     "AAX4 GUI/AAX4 GUI Nuxt command.md",
     "WFI",
-    "SQL/WF related.md",
-    "SQL/Query wfi target.md",
     "SQL/Query reschedule.md",
     "SQL/Add user function and role.md",
-    "SQL/Add service ticket templates.md",
     "Starhub/Onboard.md",
     "User/User.md",
     "Config/Backend config.md",
