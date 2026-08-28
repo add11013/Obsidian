@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SQL/Add user function and role.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -199,6 +199,8 @@
   },
   "active": "db4cb20aa5f30f7d",
   "lastOpenFiles": [
+    "User/Role & Function.md",
+    "SQL/Add user function and role.md",
     "SQL/Query wfi target.md",
     "SQL/WF related.md",
     "SQL/Add service ticket templates.md",
@@ -207,9 +209,7 @@
     "AAX4 GUI/AAX4 GUI Nuxt command.md",
     "WFI",
     "SQL/Query reschedule.md",
-    "SQL/Add user function and role.md",
     "Starhub/Onboard.md",
-    "User/User.md",
     "Config/Backend config.md",
     "User",
     "SQL/Add service ticket category.md",
