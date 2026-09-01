@@ -2,4 +2,6 @@
 
 ![[Pasted image 20260901151445.png]]
 
-target 代表會執行的
+target在`rp-subsystem-service` repo中
+target 代表會執行的內容
+舉例`storeFsmStarhubAppointmentUpdates`可以到`storeFsmStarhubAppointmentUpdatesTarget`看
