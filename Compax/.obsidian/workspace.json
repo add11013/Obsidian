@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAX4 GUI/AAX4 GUI Nuxt command.md",
+                "file": "WFI/Data Selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AAX4 GUI Nuxt command"
+              "title": "Data Selection"
             }
           }
         ]
@@ -199,24 +199,27 @@
   },
   "active": "db4cb20aa5f30f7d",
   "lastOpenFiles": [
-    "Appointment/Appointment Detail.md",
-    "Starhub/Onboard.md",
-    "Config/Backend config.md",
-    "SQL/Add service ticket category.md",
-    "SQL/Add service ticket template attributes.md",
-    "SQL/Add service ticket templates.md",
+    "Pasted image 20260901151445.png",
+    "Pasted image 20260901151430.png",
+    "Pasted image 20260901151358.png",
     "SQL/WF related.md",
-    "WFI/Untitled.md",
+    "SQL/Query wfi target.md",
+    "SQL/Query reschedule.md",
+    "SQL/Add user function and role.md",
+    "SQL/Add service ticket template attributes.md",
+    "SQL/Add service ticket category.md",
+    "Config/Backend config.md",
+    "Appointment/Appointment Detail.md",
+    "AAX4 GUI/AAX4 GUI Nuxt command.md",
+    "Starhub/Onboard.md",
+    "SQL/Add service ticket templates.md",
+    "WFI/Data Selection.md",
     "WFI/Waiting item.md",
     "Pasted image 20260825175357.png",
     "Starhub/Logs.md",
     "Starhub/Deployment.md",
-    "SQL/Add user function and role.md",
     "User/Role & Function.md",
-    "SQL/Query wfi target.md",
-    "AAX4 GUI/AAX4 GUI Nuxt command.md",
     "WFI",
-    "SQL/Query reschedule.md",
     "User",
     "Templates/SQL template.md",
     "Subsystem/Subsystem.md",
