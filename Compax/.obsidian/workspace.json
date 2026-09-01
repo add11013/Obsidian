@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subsystem/SQL.md",
-                "mode": "source",
+                "file": "WFI/Data Selection.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Data Selection"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Add service ticket templates.md",
+                "file": "WFI/Data Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User/User.md",
+                "file": "WFI/Data Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Add service ticket templates.md",
+                "file": "WFI/Data Selection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,16 +196,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db4cb20aa5f30f7d",
+  "active": "289ceaca93b5b419",
   "lastOpenFiles": [
-    "WFI/Data Selection.md",
-    "Subsystem/SQL.md",
+    "WFI/Waiting item.md",
     "WFI/Dependencies.md",
+    "Pasted image 20260901180357.png",
     "WFI/Return Code.md",
+    "WFI/Scenarios.md",
+    "Pasted image 20260901175915.png",
+    "Subsystem/SQL.md",
+    "Subsystem/Process.md",
+    "WFI/Data Selection.md",
     "Pasted image 20260901153104.png",
     "Pasted image 20260901153007.png",
-    "WFI/Waiting item.md",
-    "Subsystem/Process.md",
     "Pasted image 20260901151445.png",
     "Pasted image 20260901151430.png",
     "Pasted image 20260901151358.png",
