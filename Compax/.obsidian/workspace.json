@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WFI/Data Selection.md",
+                "file": "WFI/Dependencies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Selection"
+              "title": "Dependencies"
             }
           }
         ]
@@ -199,8 +199,12 @@
   },
   "active": "db4cb20aa5f30f7d",
   "lastOpenFiles": [
-    "WFI/Waiting item.md",
+    "Pasted image 20260901153104.png",
     "WFI/Data Selection.md",
+    "WFI/Dependencies.md",
+    "WFI/Return Code.md",
+    "Pasted image 20260901153007.png",
+    "WFI/Waiting item.md",
     "Subsystem/Process.md",
     "Pasted image 20260901151445.png",
     "Pasted image 20260901151430.png",
