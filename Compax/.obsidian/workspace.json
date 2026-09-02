@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "WFI/Data Selection.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -177,12 +177,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +196,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "289ceaca93b5b419",
+  "active": "db4cb20aa5f30f7d",
   "lastOpenFiles": [
-    "WFI/Waiting item.md",
     "WFI/Dependencies.md",
-    "Pasted image 20260901180357.png",
     "WFI/Return Code.md",
     "WFI/Scenarios.md",
+    "WFI/Waiting item.md",
+    "WFI/Workflow Item.md",
+    "WFI/Data Selection.md",
+    "SQL/Add service ticket category.md",
+    "Subsystem/Process.md",
+    "Pasted image 20260901180357.png",
     "Pasted image 20260901175915.png",
     "Subsystem/SQL.md",
-    "Subsystem/Process.md",
-    "WFI/Data Selection.md",
     "Pasted image 20260901153104.png",
     "Pasted image 20260901153007.png",
     "Pasted image 20260901151445.png",
@@ -217,7 +219,6 @@
     "SQL/Query reschedule.md",
     "SQL/Add user function and role.md",
     "SQL/Add service ticket template attributes.md",
-    "SQL/Add service ticket category.md",
     "Config/Backend config.md",
     "Appointment/Appointment Detail.md",
     "AAX4 GUI/AAX4 GUI Nuxt command.md",
