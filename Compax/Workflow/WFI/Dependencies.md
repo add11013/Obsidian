@@ -9,4 +9,4 @@ Incoming (顯示哪些WFI在什麼情況會進這個WFI)
 - Rollback on completion: 當前WFI跑完後，會rollback target WFI，讓他下次可以繼續跑， [[Waiting item]]要特別注意
 - Provides for input of external system: 當前會停住，等外面的request進來
 
-![[Pasted image 20260901180357.png]]
+![[wfi status diagram.png]]
