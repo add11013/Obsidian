@@ -1,8 +1,4 @@
-workflow系統中運行的節點
-在workflow中
-edge是
-
-
+[[Workflow]] 中運行的節點
 ## Interfaces
 有三種Interfaces:
 • AUTO – 用來控制 WFIs，像是開另一個sub workflow
