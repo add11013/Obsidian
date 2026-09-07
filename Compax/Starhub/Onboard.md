@@ -66,13 +66,13 @@ We mainly use the following AWS environments for testing:
 
 ## HFD (Staging)
 
-| Item | Value |
-|------|-------|
-| Database | `dbcompaxstaging` |
+| Item     | Value                                                             |
+| -------- | ----------------------------------------------------------------- |
+| Database | `dbcompaxstaging`                                                 |
 | Endpoint | `db-compax-staging.ckerncv2jdvw.ap-southeast-1.rds.amazonaws.com` |
-| Port | `5432` |
-| Username | `postgres` |
-| Password | `CompaxStagingPo$tGres` |
+| Port     | `5432`                                                            |
+| Username | `postgres`                                                        |
+| Password | `CompaxStagingPo$tGres`                                           |
 
 ---
 
