@@ -103,13 +103,13 @@ https://shint2.int.compax.at/
 
 ## SHINT2 Database
 
-| Item | Value |
-|------|-------|
-| Database | `shint2` |
+| Item     | Value                            |
+| -------- | -------------------------------- |
+| Database | `shint2`                         |
 | Endpoint | `postgres-dev.tpe.int.compax.at` |
-| Port | `5433` |
-| Username | `aax2sh` |
-| Password | `aax2sh` |
+| Port     | `5433`                           |
+| Username | `aax2sh`                         |
+| Password | `aax2sh`                         |
 
 
 #config
