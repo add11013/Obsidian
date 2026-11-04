@@ -41,4 +41,4 @@ client=sh,configuration=aax2,identifier=5.654.2a
 版號a結尾為shpre的版本
 所以SHPRE修正完，要驗證時的版號應該要是a結尾，才代表上版成功
 
-#deployment
+#deployment #coin
