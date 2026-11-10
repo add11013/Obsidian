@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Add user function and role.md",
+                "file": "Starhub/Deployment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add user function and role"
+              "title": "Deployment"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "f2a396ba0a33f77b",
   "lastOpenFiles": [
+    "SQL/Add user function and role.md",
     "SQL/Query reschedule.md",
     "SQL/Query wfi target.md",
     "SQL/WF related.md",
@@ -224,7 +225,6 @@
     "Pasted image 20260901151358.png",
     "Workflow/WFI",
     "SQL/Add service ticket category.md",
-    "SQL/Add user function and role.md",
     "SQL/Add service ticket template attributes.md",
     "Config/Backend config.md",
     "Appointment/Appointment Detail.md",
