@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a396ba0a33f77b",
+  "active": "4dabb1f9d3b1a79c",
   "lastOpenFiles": [
     "SQL/Add user function and role.md",
     "SQL/Query reschedule.md",
